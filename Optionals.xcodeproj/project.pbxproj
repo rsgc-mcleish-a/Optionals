@@ -25,6 +25,7 @@
 /* Begin PBXFileReference section */
 		812660251E5235F500016671 /* Optionals */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = Optionals; sourceTree = BUILT_PRODUCTS_DIR; };
 		812660281E5235F500016671 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
+		8126602F1E52364000016671 /* Exploring Optionals.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; name = "Exploring Optionals.playground"; path = "Optionals/Exploring Optionals.playground"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -41,6 +42,7 @@
 		8126601C1E5235F500016671 = {
 			isa = PBXGroup;
 			children = (
+				8126602F1E52364000016671 /* Exploring Optionals.playground */,
 				812660271E5235F500016671 /* Optionals */,
 				812660261E5235F500016671 /* Products */,
 			);
