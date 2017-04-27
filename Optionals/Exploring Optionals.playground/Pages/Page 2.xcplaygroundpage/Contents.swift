@@ -11,3 +11,6 @@
  
  */
 //: [Next](@next)
+var myName : String
+
+var yourName : String?

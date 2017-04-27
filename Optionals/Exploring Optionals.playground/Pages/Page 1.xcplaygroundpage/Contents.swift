@@ -17,8 +17,8 @@
  
  */
 // Type the code below this line
-
-
+//var myName : String
+//print (myName)
 
 /*:
  
@@ -36,7 +36,8 @@
  
  */
 // Type the next section of code below this line
-
+var yourName : String?
+print(yourName)
 
 
 //: [Next](@next)

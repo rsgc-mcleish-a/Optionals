@@ -12,6 +12,13 @@
  What is the result?
  */
 // type code below this line
+var x : Int?
+var y : Int? = 0
+if x == y {
+    print("variables are equal")
+} else {
+    print("variables NOT equal")
+}
 
 
 
