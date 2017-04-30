@@ -13,7 +13,12 @@
  
  */
 // Type your code below this line
-
+var dayOfWeak : String? = "Monday"
+if dayOfWeak != nil{
+    print("The day is \(dayOfWeak)")
+} else {
+    print("no day was provided")
+}
 
 
 /*:

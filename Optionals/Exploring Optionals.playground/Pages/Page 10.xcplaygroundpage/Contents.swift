@@ -11,7 +11,10 @@
  
  */
 // Type the code below this line
+var x : Int = 0
+var y : Int = 5
 
+x * y
 
 
 
